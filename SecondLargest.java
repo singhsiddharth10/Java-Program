@@ -1,5 +1,4 @@
-import java.util.* ;
-import java.io.*; 
+
 public class SecondLargest {
 	public static int findSecondLargest(int n, int[] arr) {
 		int mx1,mx2;
